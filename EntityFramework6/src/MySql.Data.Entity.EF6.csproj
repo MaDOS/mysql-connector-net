@@ -65,7 +65,7 @@
     <DefineConstants>EF6;NET_40_OR_GREATER;NET_45_OR_GREATER</DefineConstants>
     <DelaySign>True</DelaySign>
     <AssemblyOriginatorKeyFile>../../ConnectorNetPublicKey.snk</AssemblyOriginatorKeyFile>
-    <SignAssembly>True</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <RootNamespace>MySql.Data.Entity</RootNamespace>
   </PropertyGroup>
 
